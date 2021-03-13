@@ -1,0 +1,9 @@
+{
+  "name": "Ditty-Backend",
+  "version": "1.0.0",
+  "description": "Backend of ditty.ir",
+  "main": "app.js",
+  "repository": "https://github.com/mhmadkavosi/Ditty-Backend.git",
+  "author": "Mohammad Kavosi <mhmad.kavosi@gmail.com>",
+  "license": "MIT"
+}
